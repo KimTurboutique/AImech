@@ -1,0 +1,20 @@
+{
+  "name": "aimech",
+  "version": "1.0.0",
+  "description": "This project is curated for car owners with general questions about their vehicle. Rather than checking the user's manual, just ask your AI mechanic a question.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.12",
+    "langchain": "^0.0.211"
+  }
+}
