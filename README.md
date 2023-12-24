@@ -6,8 +6,6 @@
 - [Motivation for Development](#motivation-for-developement)
 - [Tools & Technologies used](#toolstechnologies-used)
 - [User Story](#user-story)
-- [Demo](#demo-video)
-- [Deployed Application](#deployed-application)
 - [Source Code](#source-code)
 - [Acknowledgements](#acknowledgements)
 
